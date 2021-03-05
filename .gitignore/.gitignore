@@ -1,6 +1,6 @@
 # Project relevant files:
-.conf.txt
-.ipynb_checkpoints
+conf.txt
+*.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
